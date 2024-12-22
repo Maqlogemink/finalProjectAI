@@ -1,0 +1,7 @@
+names:
+- face
+- face_mask
+- mask
+nc: 3
+train: Demo-1/train/images
+val: Demo-1/valid/images
